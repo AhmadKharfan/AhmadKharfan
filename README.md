@@ -8,26 +8,6 @@ I’m a Kotlin Multiplatform and Android developer focused on building scalable,
 
 ---
 
-# 🚀 Featured Projects
-
-## 🔵 MENA Mobile  
-A cross-platform **Kotlin Multiplatform** app built for the MENA open-source ecosystem. Designed for modularity, scalability, and shared logic across Android, iOS, and Desktop.  
-👉 **GitHub:** https://github.com/AhmadKharfan/MENA-mobile
-
----
-
-## 🟣 Novix  
-A modern Android application built with **Jetpack Compose**, **Clean Architecture**, and **KMP**, focused on performance, modularity, and clean code structure.  
-👉 **GitHub:** https://github.com/AhmadKharfan/Novix
-
----
-
-## 🟢 Qurio  
-A traditional **XML-based Android app** following the **MVP architecture pattern**, integrating **Retrofit**, **Room**, and a clean modular structure. Perfect example of classic Android app engineering with scalability in mind.  
-👉 **GitHub:** https://github.com/AhmadKharfan/Qurio
-
----
-
 # 💻 Tech Stack  
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
